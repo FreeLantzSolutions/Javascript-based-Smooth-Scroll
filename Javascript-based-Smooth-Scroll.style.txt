@@ -1,0 +1,35 @@
+body{
+	background-color: white;
+	background-image: url("https://subtlepatterns.com/patterns/purty_wood.png");
+	background-position: center top;
+	background-repeat: repeat;
+}
+
+h1{
+	text-align: center;
+	color: rgba(0,0,0,0.8);
+	font-size: 100px;
+	padding-bottom: 100px;
+	text-shadow: 0 -3px 0 #333,
+		0 3px 4px rgba(0,0,0, 0.4),
+		0 4px 5px rgba(0,0,0, 0.15),
+		0 14px 5px rgba(0,0,0, 0.18),
+		0 6px 5px rgba(0,0,0, 0.21);
+}
+
+h2{
+	padding-bottom: 30px;
+	text-align: center;
+	font-size: 34px;
+}
+
+p{
+	margin-bottom: 40px;
+	font-size: 16px;
+}
+
+.holder{
+	width: 600px;
+	margin: 300px auto 100px;
+	position: relative;
+}
